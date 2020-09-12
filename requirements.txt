@@ -1,0 +1,4 @@
+requests
+pip
+pandas
+streamlit
